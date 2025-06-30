@@ -35,8 +35,14 @@
 
 框架：Vue.js
 
+![image](https://github.com/user-attachments/assets/58658586-0325-4ed0-9cb5-0bfe078c5527)
+
+
 <br>
 
 ### 实现代码
+
+![image](https://github.com/user-attachments/assets/f43807c4-26d8-48e7-9323-0eed0150d489)
+
 
 具体代码，请拉取我的 Github 仓库：[https://github.com/cute6868/exam](https://github.com/cute6868/exam)
